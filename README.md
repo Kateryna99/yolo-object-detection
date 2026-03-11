@@ -95,7 +95,7 @@ Finally, I tested the trained detector on a live webcam feed. The model was able
 This demonstrates the main advantage of YOLO (You Only Look Once): object detection is performed in a single pass through the neural network,
 which allows fast real-time predictions.
 
-![Confusion Matrix](screenshots/real-time_detection.png)
+![Real-time test](screenshots/real-time_detection.png)
 
 
 7. Conclusion
