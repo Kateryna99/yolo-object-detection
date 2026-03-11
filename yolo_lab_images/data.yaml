@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['blue_bottle', 'phone', 'yellow_cup']
+
+roboflow:
+  workspace: katerynas-workspace
+  project: objects-detection-cup-bottle
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/katerynas-workspace/objects-detection-cup-bottle/dataset/1
